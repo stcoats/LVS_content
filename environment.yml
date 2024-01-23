@@ -7,6 +7,7 @@ dependencies:
   - pip
   - pandas
   - matplotlib
+  - yt-dlp
   - pip:
     - git+https://github.com/openai/whisper.git
 
