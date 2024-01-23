@@ -1,6 +1,0 @@
-numpy==1.25.0
-torch
-torchvision
-torchaudio
-yt-dlp
-Cython
