@@ -8,6 +8,8 @@ dependencies:
   - pandas
   - matplotlib
   - yt-dlp
+  - pydub
+  - IPython
   - pip:
     - git+https://github.com/openai/whisper.git
 
